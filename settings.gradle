@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "OasisTask4_Aman_QuizApp"
